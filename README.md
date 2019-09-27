@@ -32,6 +32,3 @@ run:
 ````
 python ms5803_and_TMP102.py
 ````
-
-# OBC_sensors_test
-
