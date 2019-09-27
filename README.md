@@ -22,7 +22,7 @@ MS5803-14BA is a pressure sensor. For more info click on the MS5803 image above.
 
 clone this repo using:
 ````
-git clone 
+git clone https://github.com/Orbitalspace/Rpi-Multi-sensors-I2C.git
 ````
 Then go to the folder directory:
 ````
